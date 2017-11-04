@@ -13,3 +13,6 @@ AUTHOR/COPYRIGHT HOLDER: SHUHO SATO
 Manga on Web
 
 http://mangaonweb.com/news/2014/11/17/64
+
+
+See also: https://github.com/toshiakikoike/epub_file/tree/master/jp_comic_type
