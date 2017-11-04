@@ -11,7 +11,6 @@ TITLE: Give My Regards to Black Jack
 AUTHOR/COPYRIGHT HOLDER: SHUHO SATO
 
 Manga on Web
-
 http://mangaonweb.com/news/2014/11/17/64
 
 
